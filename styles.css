@@ -1,0 +1,36 @@
+body {
+    background-color: orange;
+    height: 1000px;
+  }
+  
+  .container-global {
+    background-color: #f0f;
+    height: 100vh;
+    font-size: 2rem;
+    font-weight: bold;
+    /* display: flex; */
+  }
+  
+  .bloc {
+    /* display: flex; */
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(255, 196, 0);
+    background-color: rgb(0, 4, 255);
+  }
+  
+  .blocus {
+    /* display: flex; */
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(0, 217, 255);
+  }
+  
+  .blocage {
+    width: 30px;
+    height: 30px;
+    border: 2px dotted #f0f;
+    background-color: darkgrey;
+  }
+  
